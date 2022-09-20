@@ -1,4 +1,5 @@
 # Medical-Data-Extraction
+![](https://media1.giphy.com/media/zUxhmejE6KnrdgV6RN/giphy.gif?cid=ecf05e47cvfd41w4cvjw0zow19mqa8h8inqpx63cyjxc5wlc&rid=giphy.gif&ct=g)
 - This project is to implement medical data extraction , and this project will auto classify and extract useful information from medicalcare documents.
 - Implemented this project by using libraries - Pytesseract(Runs On Google Optical Character Recognition-OCR), Computer Vision, Regex, PDF2Image, Pytest.
 - At first we use PDF2Image library to convert PDF into image, clean the image with Computer Vision by Adaptive Thresholding Techinique and extract useful data by using Pytesseract(OCR) and regex.
